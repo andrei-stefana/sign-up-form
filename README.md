@@ -10,7 +10,7 @@ This project is made using HTML, CSS and JavaScript with a form and flexbox layo
 
 ## Link To Preview
 
-https://andrestef.github.io/sign-up-form/
+https://an3ist.github.io/sign-up-form/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Dieses Projekt wurde mit HTML, CSS und JavaScript erstellt und verwendet ein For
 
 ## Link zur Vorschau
 
-https://andrestef.github.io/sign-up-form/
+https://an3ist.github.io/sign-up-form/
